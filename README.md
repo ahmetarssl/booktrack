@@ -2,7 +2,7 @@
 
 Okuduğun, okuyacağın ve yarıda bıraktığın kitapları takip etmeni sağlayan kişisel bir kitap yönetim uygulaması.
 
-🔗 Canlı Demo: [Netlify linki buraya]
+🔗 Canlı Demo: https://booktrack12.netlify.app/
 
 ## Özellikler
 
